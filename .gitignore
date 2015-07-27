@@ -1,3 +1,11 @@
+vincentsisk-algo-part-1-41d91230c2ca/
+*.suo
+*.dat
+*.js.map
+*.dll
+*.FileListAbsolute.txt
+*.cache
+
 # Logs
 logs
 *.log
@@ -73,3 +81,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.zip

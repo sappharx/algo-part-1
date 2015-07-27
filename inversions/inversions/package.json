@@ -1,0 +1,15 @@
+{
+  "name": "inversions",
+  "version": "0.0.0",
+  "description": "inversions",
+  "main": "app.js",
+  "author": {
+    "name": "Vincent Sisk",
+    "email": "vinnysisk@gmail.com"
+  },
+  "dependencies": {
+    "assert": "^1.3.0",
+    "mocha": "^2.2.5",
+    "should": "^7.0.2"
+  }
+}
